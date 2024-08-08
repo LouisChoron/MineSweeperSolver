@@ -6,4 +6,4 @@ Ensure that the image files and code file are in the same directory, then simply
 
 ### Future Improvements
 - Use machine learning to tackle the problem intuitively. There are often cases where future moves could be worked out through thought, however cannot all be included into the algorithm, due to the large number of possible situations! These are called "minesweeper patterns" and I attempted to include the most common at the end of the code, however there have been many left out!
-- Investigate parallelisation. 
+- Investigate including parallelisation.
